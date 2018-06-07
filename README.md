@@ -7,7 +7,7 @@ The challenge was to create a timed trivia game. Only 15 seconds were alotted to
 
 ## Motivation
 
-I wanted to create a Pixar trivia game that was towards the more difficult side and gave animation buffs a challenge. I also created a simpler version for friends and family after the initial app that can be found here: https://pixartriviajr.herokuapp.com/
+
 
 ## Getting Started 
 Play here: 
