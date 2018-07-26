@@ -10,7 +10,7 @@ The challenge was to create a timed trivia game. Only 15 seconds were alotted to
 
 
 ## Getting Started 
-Play here: 
+Play here: https://wcotton229.github.io/triviagame/
 
 ## Technologies used
 - Google Fonts
