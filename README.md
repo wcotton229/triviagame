@@ -17,13 +17,6 @@ Play here: https://wcotton229.github.io/triviagame/
 - Bootstrap
 - jQuery
 
-### Prerequisites
-
-```
-- Bootstrap: visit http://getbootstrap.com/getting-started/ for the CDN and link in html
-- jQuery: visit http://code.jquery.com/ and link in html
-```
-
 ## Built With
 
 * Visual Studio Code - Text Editor
