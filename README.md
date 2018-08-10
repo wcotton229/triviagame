@@ -21,4 +21,8 @@ Play here: https://wcotton229.github.io/triviagame/
 
 ## Authors
 
-* **William Cotton** - *wcotton229*
+* **William Cotton** - *[wcotton229](https://github.com/wcotton229)*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/osd) file for details
